@@ -1,7 +1,7 @@
 /**
  Name: Gisella Adair
  Date: february 8, 2026
- Assignment: Module 5.2 Arrays & Methods Instructions
+ Assignment: Module 6.2 Arrays & Methods Instructions
  Course: CSD-402 Java For Programmers
 */
 
